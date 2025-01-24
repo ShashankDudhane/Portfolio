@@ -1,0 +1,23 @@
+/* Tailwind Custom Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-dark {
+    background-color: #0A0A0A;
+  }
+
+  .text-primary {
+    color: #00FF00;
+  }
+
+  .animate-fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+}
