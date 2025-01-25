@@ -18,6 +18,31 @@ const certificates = [
     image: 'Images/java.png',
     title: 'Java',
     description: ' Gain expertise in Core Java, Servlets, JSP, and JDBC to build robust applications, from backend logic to dynamic web interfaces.'
+  },
+  {
+    image: 'Images/vcs.jpg',
+    title: 'Git Version Control',
+    description: 'Learn the fundamentals of Git, including version control, branching, and collaboration, to efficiently manage code and projects.'
+  },
+  {
+    image: 'Images/hackathon.jpg',
+    title: 'Internal Hackathon',
+    description: 'Participated in an exciting internal hackathon, collaborating with a team to develop innovative solutions and demonstrate problem-solving skills. It was an excellent opportunity to showcase creativity, coding expertise, and teamwork.'
+  },
+  {
+    image: 'Images/corejava.jpg',
+    title: ' Core Java',
+    description: ' Gain expertise in Core Java concepts, Swing , Awt and JDBC to build robust applications, from backend logic to dynamic web interfaces.'
+  }
+  ,{
+    image: 'Images/octanet.jpg',
+    title: 'Octanet WebDev Internship',
+    description: ' Gain hands-on experience in building dynamic and responsive websites using modern web technologies. This internship focuses on enhancing your skills in frontend developent.'
+  },
+  {
+    image: 'Images/frontend.png',
+    title: 'Frontend Development',
+    description: ' I completed a course on Frontend Development, where I gained hands-on experience in building user interfaces using HTML, CSS, JavaScript  and React to create dynamic and responsive web applications.'
   }
 ];
 
